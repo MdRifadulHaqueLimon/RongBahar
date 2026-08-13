@@ -249,20 +249,20 @@ const CATEGORIES_DATA = [
 ];
 
 const PRODUCTS = [
-  {id:1, name:'Wireless Earbuds Pro', nameBn:'ওয়্যারলেস ইয়ারবাডস প্রো', price:1450, old:1900, cat:'electronics', img:'https://picsum.photos/seed/earbuds1/400/400'},
-  {id:2, name:'Smart Watch Series 7', nameBn:'স্মার্ট ওয়াচ সিরিজ ৭', price:2890, old:3500, cat:'electronics', img:'https://picsum.photos/seed/watch1/400/400'},
-  {id:3, name:'Fast Charging Power Bank 20000mAh', nameBn:'ফাস্ট চার্জিং পাওয়ার ব্যাংক ২০০০০mAh', price:990, old:1300, cat:'electronics', img:'https://picsum.photos/seed/powerbank1/400/400'},
-  {id:4, name:'Bluetooth Speaker Mini', nameBn:'ব্লুটুথ স্পিকার মিনি', price:750, old:0, cat:'electronics', img:'https://picsum.photos/seed/speaker1/400/400'},
-  {id:5, name:'Premium Cotton Panjabi', nameBn:'প্রিমিয়াম কটন পাঞ্জাবি', price:1250, old:1600, cat:'fashion', img:'https://picsum.photos/seed/panjabi1/400/400'},
-  {id:6, name:'Slim Fit Denim Jeans', nameBn:'স্লিম ফিট ডেনিম জিন্স', price:1100, old:0, cat:'fashion', img:'https://picsum.photos/seed/jeans1/400/400'},
-  {id:7, name:'Casual Leather Bag', nameBn:'ক্যাজুয়াল লেদার ব্যাগ', price:1650, old:2100, cat:'fashion', img:'https://picsum.photos/seed/bag1/400/400'},
-  {id:8, name:'Sports Sneakers', nameBn:'স্পোর্টস স্নিকার্স', price:2100, old:2600, cat:'fashion', img:'https://picsum.photos/seed/sneaker1/400/400'},
-  {id:9, name:'Aroma Scented Candle Set', nameBn:'অ্যারোমা সেন্টেড ক্যান্ডেল সেট', price:520, old:0, cat:'home', img:'https://picsum.photos/seed/candle1/400/400'},
-  {id:10,name:'Ceramic Coffee Mug Set (4 pcs)', nameBn:'সিরামিক কফি মগ সেট (৪ পিস)', price:680, old:850, cat:'home', img:'https://picsum.photos/seed/mug1/400/400'},
-  {id:11,name:'Mini Desk Organizer', nameBn:'মিনি ডেস্ক অর্গানাইজার', price:430, old:0, cat:'home', img:'https://picsum.photos/seed/organizer1/400/400'},
-  {id:12,name:'Organic Face Serum', nameBn:'অর্গানিক ফেইস সিরাম', price:590, old:750, cat:'beauty', img:'https://picsum.photos/seed/serum1/400/400'},
-  {id:13,name:'Matte Lipstick Combo (3 pcs)', nameBn:'ম্যাট লিপস্টিক কম্বো (৩ পিস)', price:450, old:600, cat:'beauty', img:'https://picsum.photos/seed/lipstick1/400/400'},
-  {id:14,name:'Hair Care Gift Box', nameBn:'হেয়ার কেয়ার গিফট বক্স', price:820, old:0, cat:'beauty', img:'https://picsum.photos/seed/haircare1/400/400'},
+  {id:1, name:'Wireless Earbuds Pro', nameBn:'ওয়্যারলেস ইয়ারবাডস প্রো', price:1450, old:1900, cat:'electronics', img:'Product_img/Wireless Earbuds Pro.jpg'},
+  {id:2, name:'Smart Watch Series 7', nameBn:'স্মার্ট ওয়াচ সিরিজ ৭', price:2890, old:3500, cat:'electronics', img:'Product_img/Smart Watch Series 7.jpg'},
+  {id:3, name:'Fast Charging Power Bank 20000mAh', nameBn:'ফাস্ট চার্জিং পাওয়ার ব্যাংক ২০০০০mAh', price:990, old:1300, cat:'electronics', img:'Product_img/Fast Charging Power Bank 20000mAh.jpg'},
+  {id:4, name:'Bluetooth Speaker Mini', nameBn:'ব্লুটুথ স্পিকার মিনি', price:750, old:0, cat:'electronics', img:'Product_img/Bluetooth Speaker Mini.jpg'},
+  {id:5, name:'Premium Cotton Panjabi', nameBn:'প্রিমিয়াম কটন পাঞ্জাবি', price:1250, old:1600, cat:'fashion', img:'Product_img/Premium Cotton Panjabi.jpg'},
+  {id:6, name:'Slim Fit Denim Jeans', nameBn:'স্লিম ফিট ডেনিম জিন্স', price:1100, old:0, cat:'fashion', img:'Product_img/Slim Fit Denim Jeans.jpg'},
+  {id:7, name:'Casual Leather Bag', nameBn:'ক্যাজুয়াল লেদার ব্যাগ', price:1650, old:2100, cat:'fashion', img:'Product_img/Casual Leather Bag.jpg'},
+  {id:8, name:'Sports Sneakers', nameBn:'স্পোর্টস স্নিকার্স', price:2100, old:2600, cat:'fashion', img:'Product_img/Sports Sneakers.jpg'},
+  {id:9, name:'Aroma Scented Candle Set', nameBn:'অ্যারোমা সেন্টেড ক্যান্ডেল সেট', price:520, old:0, cat:'home', img:'Product_img/Aroma Scented Candle Set.jpg'},
+  {id:10,name:'Ceramic Coffee Mug Set (4 pcs)', nameBn:'সিরামিক কফি মগ সেট (৪ পিস)', price:680, old:850, cat:'home', img:'Product_img/Ceramic Coffee Mug Set (4 pcs).jpg'},
+  {id:11,name:'Mini Desk Organizer', nameBn:'মিনি ডেস্ক অর্গানাইজার', price:430, old:0, cat:'home', img:'Product_img/Mini Desk Organizer.jpg'},
+  {id:12,name:'Organic Face Serum', nameBn:'অর্গানিক ফেইস সিরাম', price:590, old:750, cat:'beauty', img:'Product_img/Organic Face Serum.jpg'},
+  {id:13,name:'Matte Lipstick Combo (3 pcs)', nameBn:'ম্যাট লিপস্টিক কম্বো (৩ পিস)', price:450, old:600, cat:'beauty', img:'Product_img/Matte Lipstick Combo (3 pcs).jpg'},
+  {id:14,name:'Hair Care Gift Box', nameBn:'হেয়ার কেয়ার গিফট বক্স', price:820, old:0, cat:'beauty', img:'Product_img/Hair Care Gift Box.jpg'},
 ];
 
 const FAQ_DATA = [
