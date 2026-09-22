@@ -243,7 +243,7 @@ Phase 3 — Advanced Features
 
 > Frontend Developer & Shopify Designer
 
-- 🌐 **Portfolio**: [RongBahar Live Demo](https://)
+- 🌐 **Portfolio**: [MdRifadulHaqueLimon](https://mdrifadulhaquelimon.github.io/MdRifadulHaqueLimon/)
 - 📧 **Email**: [mrrifadulhaquelimon@gmail.com](mailto:mrrifadulhaquelimon@gmail.com)
 - 📱 **Phone**: +880 1644-881780
 - 💼 **LinkedIn**: [linkedin.com/in/mdrifadulhaquelimon](https://www.linkedin.com/in/mdrifadulhaquelimon/)
@@ -258,7 +258,6 @@ This project is built for **portfolio and demonstration purposes**.
 
 ```
 © 2026 RongBahar. All rights reserved.
-Crafted with care for your best shopping experience.
 ```
 
 ---
